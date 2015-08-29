@@ -2,7 +2,7 @@ package elastilog4g
 
 import (
 	"errors"
-	"github.com/dspasibenko/log4g"
+	"github.com/jrivets/log4g"
 	elastigo "github.com/mattbaird/elastigo/lib"
 	"strconv"
 	"strings"
